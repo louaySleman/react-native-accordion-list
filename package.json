@@ -1,6 +1,6 @@
 {
   "name": "react-native-accordion-list-view",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "description": "Animated accordion collapsable List for react native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -44,7 +44,6 @@
   "devDependencies": {
     "@types/react": "^18.0.21",
     "@types/react-native": "^0.70.6",
-    "@types/react-native-vector-icons": "^6.4.12",
     "prettier": "^2.8.1",
     "react": "18.1.0",
     "react-native": "0.70.6",
